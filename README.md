@@ -15,7 +15,7 @@ To run the tests, follow these steps:
 
 1.Clone the Repository: Clone this repository to your local machine using the following command:
 
-git clone https://github.com/your-username/postman-basics-petstore.git
+git clone https://github.com/kostic-mladen/Postman-Basics-API-Testing-for-Pet-Store.git
 
 2.Import the Collection: Open Postman and import the PetStore.postman_collection.json file located in the cloned repository. This file contains all the requests used for testing.
 
